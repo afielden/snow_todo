@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="progress" table="x_1127228_todo_todo" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>progress</element>
+            <name>x_1127228_todo_todo</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-22 16:07:07</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>progress</sys_name>
+            <sys_package display_value="Todo" source="x_1127228_todo">e527393b9795b110734ff8a6f053af9f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Todo">e527393b9795b110734ff8a6f053af9f</sys_scope>
+            <sys_update_name>sys_choice_x_1127228_todo_todo_progress</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-22 16:07:07</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>progress</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>progress</label>
+            <language>en</language>
+            <name>x_1127228_todo_todo</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-22 16:08:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-22 16:08:51</sys_updated_on>
+            <value>done</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>progress</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>progress</label>
+            <language>en</language>
+            <name>x_1127228_todo_todo</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-22 16:08:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-22 16:08:33</sys_updated_on>
+            <value>in_progress</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>progress</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>progress</label>
+            <language>en</language>
+            <name>x_1127228_todo_todo</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-22 16:07:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-22 16:07:07</sys_updated_on>
+            <value>not_started</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

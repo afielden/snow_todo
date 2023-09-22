@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="progress" label="Progress" language="en" table="x_1127228_todo_todo">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>progress</element>
+            <help/>
+            <hint/>
+            <label>Progress</label>
+            <language>en</language>
+            <name>x_1127228_todo_todo</name>
+            <plural>Progress</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-22 16:06:27</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Progress</sys_name>
+            <sys_package display_value="Todo" source="x_1127228_todo">e527393b9795b110734ff8a6f053af9f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Todo">e527393b9795b110734ff8a6f053af9f</sys_scope>
+            <sys_update_name>sys_documentation_x_1127228_todo_todo_progress_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-22 16:06:27</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

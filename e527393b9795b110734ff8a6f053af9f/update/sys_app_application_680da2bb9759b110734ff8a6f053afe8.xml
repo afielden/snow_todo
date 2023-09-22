@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name/>
+        <order/>
+        <roles>admin,user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-22 15:48:07</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>680da2bb9759b110734ff8a6f053afe8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Todo</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Todo" source="x_1127228_todo">e527393b9795b110734ff8a6f053af9f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Todo">e527393b9795b110734ff8a6f053af9f</sys_scope>
+        <sys_update_name>sys_app_application_680da2bb9759b110734ff8a6f053afe8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-22 15:48:07</sys_updated_on>
+        <title>Todo</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>

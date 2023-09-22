@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="94dc62bb9759b110734ff8a6f053afb4" label="todo" max_length="40" name="x_1127228_todo_todo" type="collection">
+        <element label="assigned to" max_length="32" name="assigned_to" reference="sys_user" type="reference"/>
+        <element label="due date" max_length="40" name="due_date" type="glide_date"/>
+        <element choice="3" default="important" label="Importance" max_length="40" name="importance" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="importance" value="not important"/>
+                <element inactive_on_update="false" label="importance" value="very important"/>
+                <element inactive_on_update="false" label="importance" value="important"/>
+            </choice>
+        </element>
+        <element choice="1" label="progress" max_length="40" name="progress" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="progress" value="in_progress"/>
+                <element inactive_on_update="false" label="progress" value="not_started"/>
+                <element inactive_on_update="false" label="progress" value="done"/>
+            </choice>
+        </element>
+        <element label="Project" max_length="32" name="project" reference="x_1127228_todo_todoproject" type="reference"/>
+        <element label="send reminder" max_length="40" name="send_reminder" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Todo item" max_length="40" name="todo_item" type="string"/>
+        <index name="index">
+            <element name="assigned_to"/>
+        </index>
+        <index name="index2">
+            <element name="project"/>
+        </index>
+    </element>
+</database>
