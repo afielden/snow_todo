@@ -7,7 +7,6 @@
                 <element inactive_on_update="false" label="importance" value="not important"/>
                 <element inactive_on_update="false" label="importance" value="very important"/>
                 <element inactive_on_update="false" label="importance" value="important"/>
-                <element inactive_on_update="false" label="importance" value="critical"/>
             </choice>
         </element>
         <element choice="1" label="progress" max_length="40" name="progress" type="choice">

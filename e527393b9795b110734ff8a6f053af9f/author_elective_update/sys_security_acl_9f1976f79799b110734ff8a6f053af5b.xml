@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_1127228_todo_test</description>
+        <name>x_1127228_todo_test</name>
+        <operation display_value="write">write</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-22 16:41:01</sys_created_on>
+        <sys_id>9f1976f79799b110734ff8a6f053af5b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1127228_todo_test</sys_name>
+        <sys_package display_value="Todo" source="x_1127228_todo">e527393b9795b110734ff8a6f053af9f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Todo">e527393b9795b110734ff8a6f053af9f</sys_scope>
+        <sys_update_name>sys_security_acl_9f1976f79799b110734ff8a6f053af5b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-22 16:41:01</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Todo">e527393b9795b110734ff8a6f053af9f</application>
+        <file_path/>
+        <instance_id>62a22381dbb96990dc3fc5970596190f</instance_id>
+        <instance_name>dev168077</instance_name>
+        <name>sys_security_acl_9f1976f79799b110734ff8a6f053af5b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Default access control on x_1127228_todo_test</description><name>x_1127228_todo_test</name><operation display_value="write">write</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-09-22 16:41:01</sys_created_on><sys_id>9f1976f79799b110734ff8a6f053af5b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1127228_todo_test</sys_name><sys_package display_value="Todo" source="x_1127228_todo">e527393b9795b110734ff8a6f053af9f</sys_package><sys_policy/><sys_scope display_value="Todo">e527393b9795b110734ff8a6f053af9f</sys_scope><sys_update_name>sys_security_acl_9f1976f79799b110734ff8a6f053af5b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-09-22 16:41:01</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>-1234939869</payload_hash>
+        <record_name>x_1127228_todo_test</record_name>
+        <reverted_from/>
+        <source>4f96f2b39799b110734ff8a6f053afc1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-22 16:41:01</sys_created_on>
+        <sys_id>d31976f79799b110734ff8a6f053af5e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18abdc41dcc0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-22 16:41:01</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>1b1976f72a99b110cfdb8b4b3e28985d</update_guid>
+        <update_guid_history>1b1976f72a99b110cfdb8b4b3e28985d:-1234939869</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-22 16:41:51</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>ab322776bb254833b5b5b8b6a60f63c9</sys_id>
+        <sys_metadata>9f1976f79799b110734ff8a6f053af5b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1127228_todo_test</sys_name>
+        <sys_package display_value="Todo" source="x_1127228_todo">e527393b9795b110734ff8a6f053af9f</sys_package>
+        <sys_parent display_value="">d31976f79799b110734ff8a6f053af67</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Todo">e527393b9795b110734ff8a6f053af9f</sys_scope>
+        <sys_scope_delete display_value="">1e2609a6b6244c609676c2e47bd23900</sys_scope_delete>
+        <sys_update_name>sys_security_acl_9f1976f79799b110734ff8a6f053af5b</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_9f1976f79799b110734ff8a6f053af5b">d31976f79799b110734ff8a6f053af5e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-22 16:41:51</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
