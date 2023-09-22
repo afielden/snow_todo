@@ -26,6 +26,25 @@
             <sequence/>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-22 16:32:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-22 16:32:28</sys_updated_on>
+            <value>critical</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>importance</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>importance</label>
+            <language>en</language>
+            <name>x_1127228_todo_todo</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
             <sys_created_on>2023-09-22 16:02:47</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
